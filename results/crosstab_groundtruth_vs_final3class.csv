@@ -1,0 +1,11 @@
+source_folder,bot,buzzer,human_genuine,Total
+fake_followers,3348,0,3,3351
+genuine_accounts,10,348,3116,3474
+social_spambots_1,985,0,6,991
+social_spambots_2,3457,0,0,3457
+social_spambots_3,459,1,4,464
+traditional_spambots_1,1000,0,0,1000
+traditional_spambots_2,100,0,0,100
+traditional_spambots_3,399,0,4,403
+traditional_spambots_4,1128,0,0,1128
+Total,10886,349,3133,14368

@@ -1,0 +1,10 @@
+source_folder,bot,buzzer,human_genuine
+fake_followers,99.9,0.0,0.1
+genuine_accounts,0.3,10.0,89.7
+social_spambots_1,99.4,0.0,0.6
+social_spambots_2,100.0,0.0,0.0
+social_spambots_3,98.9,0.2,0.8999999999999999
+traditional_spambots_1,100.0,0.0,0.0
+traditional_spambots_2,100.0,0.0,0.0
+traditional_spambots_3,99.0,0.0,1.0
+traditional_spambots_4,100.0,0.0,0.0
