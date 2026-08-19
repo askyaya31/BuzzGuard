@@ -3,7 +3,7 @@
 **Framework machine learning hybrid untuk deteksi bot dan indikasi akun buzzer terkoordinasi, berbasis fitur non-teks**
 
 BuzzGuard membedakan tiga hal di media sosial: akun bot otomatis, akun manusia asli, dan indikasi koordinasi buzzer. Bedanya dengan sistem deteksi bot kebanyakan: BuzzGuard nggak nganalisis isi teks tweet sama sekali. Alasannya sederhana, konten teks makin gampang dipalsukan seiring makin canggihnya AI generatif. Jadi fokusnya dipindah ke dua hal yang lebih susah dipalsukan: gimana akun itu berperilaku, dan gimana akun itu berkoordinasi sama akun lain.
-
+![alt text](image-1.png)
 ## Kenapa 2 tahap, bukan classifier 3 kelas?
 
 Ini bagian penting yang perlu dijelasin di awal. Nggak ada dataset publik manapun (termasuk cresci-2017 yang dipakai di sini) yang punya label "buzzer" beneran. Yang ada cuma label bot dan human. Riset soal *coordinated inauthentic behavior* (CIB) di literatur juga pada dasarnya unsupervised, nyari pola koordinasi, bukan melatih classifier dari label yang memang nggak tersedia.
